@@ -1,0 +1,328 @@
+[Fri Jul 15 10:11:44 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:13:32 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:13:32 2022]  >>> Initalizing Flask...[Fri Jul 15 10:13:32 2022]  >>> Initializing CORS...[Fri Jul 15 10:13:32 2022] Loading configuration...[Fri Jul 15 10:13:32 2022]  * Loaded: product.json[Fri Jul 15 10:13:32 2022]  * Loaded: main.json[Fri Jul 15 10:13:32 2022]  * Loaded: bases.json[Fri Jul 15 10:13:32 2022] Running server...[Fri Jul 15 10:24:06 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:24:06 2022]  >>> Initalizing Flask...[Fri Jul 15 10:24:06 2022]  >>> Initializing CORS...[Fri Jul 15 10:24:06 2022] Loading configuration...[Fri Jul 15 10:24:06 2022]  * Loaded: product.json[Fri Jul 15 10:24:06 2022]  * Loaded: main.json[Fri Jul 15 10:24:06 2022]  * Loaded: bases.json[Fri Jul 15 10:24:06 2022] Running server...[Fri Jul 15 10:26:57 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:26:57 2022]  >>> Initalizing Flask...[Fri Jul 15 10:26:57 2022]  >>> Initializing CORS...[Fri Jul 15 10:26:57 2022] Loading configuration...[Fri Jul 15 10:26:57 2022]  * Loaded: product.json[Fri Jul 15 10:26:57 2022]  * Loaded: main.json[Fri Jul 15 10:26:57 2022]  * Loaded: bases.json[Fri Jul 15 10:26:57 2022] Running server...[Fri Jul 15 10:27:29 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:27:29 2022]  >>> Initalizing Flask...[Fri Jul 15 10:27:29 2022]  >>> Initializing CORS...[Fri Jul 15 10:27:29 2022] Loading configuration...[Fri Jul 15 10:27:29 2022]  * Loaded: product.json[Fri Jul 15 10:27:29 2022]  * Loaded: main.json[Fri Jul 15 10:27:29 2022]  * Loaded: bases.json[Fri Jul 15 10:27:29 2022] Running server...[Fri Jul 15 10:28:21 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:28:21 2022]  >>> Initalizing Flask...[Fri Jul 15 10:28:21 2022]  >>> Initializing CORS...[Fri Jul 15 10:28:21 2022] Loading configuration...[Fri Jul 15 10:28:21 2022]  * Loaded: product.json[Fri Jul 15 10:28:21 2022]  * Loaded: main.json[Fri Jul 15 10:28:21 2022]  * Loaded: bases.json[Fri Jul 15 10:28:21 2022] Running server...[Fri Jul 15 10:30:29 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:30:29 2022]  >>> Initalizing Flask...[Fri Jul 15 10:30:29 2022]  >>> Initializing CORS...[Fri Jul 15 10:30:29 2022] Loading configuration...[Fri Jul 15 10:30:29 2022]  * Loaded: product.json[Fri Jul 15 10:30:29 2022]  * Loaded: main.json[Fri Jul 15 10:30:29 2022]  * Loaded: bases.json[Fri Jul 15 10:30:29 2022] Running server...[Fri Jul 15 10:34:05 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:34:06 2022]  >>> Initalizing Flask...[Fri Jul 15 10:34:06 2022]  >>> Initializing CORS...[Fri Jul 15 10:34:06 2022] Loading configuration...[Fri Jul 15 10:34:06 2022]  * Loaded: product.json[Fri Jul 15 10:34:06 2022]  * Loaded: main.json[Fri Jul 15 10:34:06 2022]  * Loaded: bases.json[Fri Jul 15 10:34:06 2022] Running server...[Fri Jul 15 10:34:45 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:34:45 2022]  >>> Initalizing Flask...[Fri Jul 15 10:34:45 2022]  >>> Initializing CORS...[Fri Jul 15 10:34:45 2022] Loading configuration...[Fri Jul 15 10:34:45 2022]  * Loaded: product.json[Fri Jul 15 10:34:45 2022]  * Loaded: main.json[Fri Jul 15 10:34:45 2022]  * Loaded: bases.json[Fri Jul 15 10:34:45 2022] Running server...[Fri Jul 15 10:35:06 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:35:07 2022]  >>> Initalizing Flask...[Fri Jul 15 10:35:07 2022]  >>> Initializing CORS...[Fri Jul 15 10:35:07 2022] Loading configuration...[Fri Jul 15 10:35:07 2022]  * Loaded: product.json[Fri Jul 15 10:35:07 2022]  * Loaded: main.json[Fri Jul 15 10:35:07 2022]  * Loaded: bases.json[Fri Jul 15 10:35:07 2022] Running server...[Fri Jul 15 10:37:11 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:37:11 2022]  >>> Initalizing Flask...[Fri Jul 15 10:37:11 2022]  >>> Initializing CORS...[Fri Jul 15 10:37:11 2022] Loading configuration...[Fri Jul 15 10:37:11 2022]  * Loaded: product.json[Fri Jul 15 10:37:11 2022]  * Loaded: main.json[Fri Jul 15 10:37:11 2022]  * Loaded: bases.json[Fri Jul 15 10:37:11 2022] Running server...[Fri Jul 15 10:37:35 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:37:36 2022]  >>> Initalizing Flask...[Fri Jul 15 10:37:36 2022]  >>> Initializing CORS...[Fri Jul 15 10:37:36 2022] Loading configuration...[Fri Jul 15 10:37:36 2022]  * Loaded: product.json[Fri Jul 15 10:37:36 2022]  * Loaded: main.json[Fri Jul 15 10:37:36 2022]  * Loaded: bases.json[Fri Jul 15 10:37:36 2022] Running server...[Fri Jul 15 10:38:18 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:38:19 2022]  >>> Initalizing Flask...[Fri Jul 15 10:38:19 2022]  >>> Initializing CORS...[Fri Jul 15 10:38:19 2022] Loading configuration...[Fri Jul 15 10:38:19 2022]  * Loaded: product.json[Fri Jul 15 10:38:19 2022]  * Loaded: main.json[Fri Jul 15 10:38:19 2022]  * Loaded: bases.json[Fri Jul 15 10:38:19 2022] Running server...[Fri Jul 15 10:38:45 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:38:46 2022]  >>> Initalizing Flask...[Fri Jul 15 10:38:46 2022]  >>> Initializing CORS...[Fri Jul 15 10:38:46 2022] Loading configuration...[Fri Jul 15 10:38:46 2022]  * Loaded: product.json[Fri Jul 15 10:38:46 2022]  * Loaded: main.json[Fri Jul 15 10:38:46 2022]  * Loaded: bases.json[Fri Jul 15 10:38:46 2022] Running server...[Fri Jul 15 10:40:25 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:40:25 2022]  >>> Initalizing Flask...[Fri Jul 15 10:40:25 2022]  >>> Initializing CORS...[Fri Jul 15 10:40:25 2022] Loading configuration...[Fri Jul 15 10:40:25 2022]  * Loaded: product.json[Fri Jul 15 10:40:25 2022]  * Loaded: main.json[Fri Jul 15 10:40:25 2022]  * Loaded: bases.json[Fri Jul 15 10:40:25 2022] Running server...[Fri Jul 15 10:40:55 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:40:55 2022]  >>> Initalizing Flask...[Fri Jul 15 10:40:55 2022]  >>> Initializing CORS...[Fri Jul 15 10:40:55 2022] Loading configuration...[Fri Jul 15 10:40:55 2022]  * Loaded: product.json[Fri Jul 15 10:40:55 2022]  * Loaded: main.json[Fri Jul 15 10:40:55 2022]  * Loaded: bases.json[Fri Jul 15 10:40:55 2022] Running server...[Fri Jul 15 10:41:57 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:41:58 2022]  >>> Initalizing Flask...[Fri Jul 15 10:41:58 2022]  >>> Initializing CORS...[Fri Jul 15 10:41:58 2022] Loading configuration...[Fri Jul 15 10:41:58 2022]  * Loaded: product.json[Fri Jul 15 10:41:58 2022]  * Loaded: main.json[Fri Jul 15 10:41:58 2022]  * Loaded: bases.json[Fri Jul 15 10:41:58 2022] Running server...[Fri Jul 15 10:43:20 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:43:20 2022]  >>> Initalizing Flask...[Fri Jul 15 10:43:20 2022]  >>> Initializing CORS...[Fri Jul 15 10:43:20 2022] Loading configuration...[Fri Jul 15 10:43:20 2022]  * Loaded: product.json[Fri Jul 15 10:43:20 2022]  * Loaded: main.json[Fri Jul 15 10:43:20 2022]  * Loaded: bases.json[Fri Jul 15 10:43:20 2022] Running server...[Fri Jul 15 10:43:51 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:43:51 2022]  >>> Initalizing Flask...[Fri Jul 15 10:43:51 2022]  >>> Initializing CORS...[Fri Jul 15 10:43:51 2022] Loading configuration...[Fri Jul 15 10:43:51 2022]  * Loaded: product.json[Fri Jul 15 10:43:51 2022]  * Loaded: main.json[Fri Jul 15 10:43:51 2022]  * Loaded: bases.json[Fri Jul 15 10:43:51 2022] Running server...[Fri Jul 15 10:47:19 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:47:20 2022]  >>> Initalizing Flask...[Fri Jul 15 10:47:20 2022]  >>> Initializing CORS...[Fri Jul 15 10:47:20 2022] Loading configuration...[Fri Jul 15 10:47:20 2022]  * Loaded: product.json[Fri Jul 15 10:47:20 2022]  * Loaded: main.json[Fri Jul 15 10:47:20 2022]  * Loaded: bases.json[Fri Jul 15 10:47:20 2022] Running server...[Fri Jul 15 10:49:37 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:49:37 2022]  >>> Initalizing Flask...[Fri Jul 15 10:49:37 2022]  >>> Initializing CORS...[Fri Jul 15 10:49:37 2022] Loading configuration...[Fri Jul 15 10:49:37 2022]  * Loaded: product.json[Fri Jul 15 10:49:37 2022]  * Loaded: main.json[Fri Jul 15 10:49:37 2022]  * Loaded: bases.json[Fri Jul 15 10:49:37 2022] Running server...[Fri Jul 15 10:50:49 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:50:49 2022]  >>> Initalizing Flask...[Fri Jul 15 10:50:49 2022]  >>> Initializing CORS...[Fri Jul 15 10:50:49 2022] Loading configuration...[Fri Jul 15 10:50:49 2022]  * Loaded: product.json[Fri Jul 15 10:50:49 2022]  * Loaded: main.json[Fri Jul 15 10:50:49 2022]  * Loaded: bases.json[Fri Jul 15 10:51:06 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:51:06 2022]  >>> Initalizing Flask...[Fri Jul 15 10:51:06 2022]  >>> Initializing CORS...[Fri Jul 15 10:51:06 2022] Loading configuration...[Fri Jul 15 10:51:06 2022]  * Loaded: product.json[Fri Jul 15 10:51:06 2022]  * Loaded: main.json[Fri Jul 15 10:51:06 2022]  * Loaded: bases.json[Fri Jul 15 10:51:06 2022] Running server...[Fri Jul 15 10:56:17 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:56:17 2022]  >>> Initalizing Flask...[Fri Jul 15 10:56:17 2022]  >>> Initializing CORS...[Fri Jul 15 10:56:17 2022] Loading configuration...[Fri Jul 15 10:56:17 2022]  * Loaded: product.json[Fri Jul 15 10:56:17 2022]  * Loaded: main.json[Fri Jul 15 10:56:17 2022]  * Loaded: bases.json[Fri Jul 15 10:56:17 2022] Running server...[Fri Jul 15 10:56:22 2022] [ModSys] activating modules set - main.py[Fri Jul 15 10:56:22 2022]  >>> Initalizing Flask...[Fri Jul 15 10:56:22 2022]  >>> Initializing CORS...[Fri Jul 15 10:56:22 2022] Loading configuration...[Fri Jul 15 10:56:22 2022]  * Loaded: product.json[Fri Jul 15 10:56:22 2022]  * Loaded: main.json[Fri Jul 15 10:56:22 2022]  * Loaded: bases.json[Fri Jul 15 10:56:22 2022] Running server...[Fri Jul 15 11:19:12 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:19:12 2022]  >>> Initalizing Flask...[Fri Jul 15 11:19:12 2022]  >>> Initializing CORS...[Fri Jul 15 11:19:12 2022] Loading configuration...[Fri Jul 15 11:19:12 2022]  * Loaded: product.json[Fri Jul 15 11:19:12 2022]  * Loaded: main.json[Fri Jul 15 11:19:12 2022]  * Loaded: bases.json[Fri Jul 15 11:19:12 2022] Loading bases...[Fri Jul 15 11:19:12 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:19:12 2022] NO PICKLES?
+Generating the base...[Fri Jul 15 11:21:15 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:21:15 2022]  >>> Initalizing Flask...[Fri Jul 15 11:21:15 2022]  >>> Initializing CORS...[Fri Jul 15 11:21:15 2022] Loading configuration...[Fri Jul 15 11:21:15 2022]  * Loaded: product.json[Fri Jul 15 11:21:15 2022]  * Loaded: main.json[Fri Jul 15 11:21:15 2022]  * Loaded: bases.json[Fri Jul 15 11:21:15 2022] Loading bases...[Fri Jul 15 11:21:15 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:21:15 2022] NO PICKLES?
+Generating the base...[Fri Jul 15 11:22:18 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:22:19 2022]  >>> Initalizing Flask...[Fri Jul 15 11:22:19 2022]  >>> Initializing CORS...[Fri Jul 15 11:22:19 2022] Loading configuration...[Fri Jul 15 11:22:19 2022]  * Loaded: product.json[Fri Jul 15 11:22:19 2022]  * Loaded: main.json[Fri Jul 15 11:22:19 2022]  * Loaded: bases.json[Fri Jul 15 11:22:19 2022] Loading bases...[Fri Jul 15 11:22:19 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:22:19 2022] NO PICKLES?
+Generating the base...[Fri Jul 15 11:24:10 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:24:10 2022]  >>> Initalizing Flask...[Fri Jul 15 11:24:10 2022]  >>> Initializing CORS...[Fri Jul 15 11:24:10 2022] Loading configuration...[Fri Jul 15 11:24:10 2022]  * Loaded: product.json[Fri Jul 15 11:24:10 2022]  * Loaded: main.json[Fri Jul 15 11:24:10 2022]  * Loaded: bases.json[Fri Jul 15 11:24:10 2022] Loading bases...[Fri Jul 15 11:24:10 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:24:10 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:24:48 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:24:48 2022]  >>> Initalizing Flask...[Fri Jul 15 11:24:48 2022]  >>> Initializing CORS...[Fri Jul 15 11:24:48 2022] Loading configuration...[Fri Jul 15 11:24:48 2022]  * Loaded: product.json[Fri Jul 15 11:24:48 2022]  * Loaded: main.json[Fri Jul 15 11:24:48 2022]  * Loaded: bases.json[Fri Jul 15 11:24:48 2022] Loading bases...[Fri Jul 15 11:24:48 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:24:48 2022] NO PICKLES?
+Generating the base...[Fri Jul 15 11:24:56 2022] Running server...[Fri Jul 15 11:25:28 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:25:28 2022]  >>> Initalizing Flask...[Fri Jul 15 11:25:28 2022]  >>> Initializing CORS...[Fri Jul 15 11:25:28 2022] Loading configuration...[Fri Jul 15 11:25:28 2022]  * Loaded: product.json[Fri Jul 15 11:25:28 2022]  * Loaded: main.json[Fri Jul 15 11:25:28 2022]  * Loaded: bases.json[Fri Jul 15 11:25:28 2022] Loading bases...[Fri Jul 15 11:25:28 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:25:28 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:26:45 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:26:45 2022]  >>> Initalizing Flask...[Fri Jul 15 11:26:45 2022]  >>> Initializing CORS...[Fri Jul 15 11:26:45 2022] Loading configuration...[Fri Jul 15 11:26:45 2022]  * Loaded: product.json[Fri Jul 15 11:26:45 2022]  * Loaded: main.json[Fri Jul 15 11:26:45 2022]  * Loaded: bases.json[Fri Jul 15 11:26:45 2022] Loading bases...[Fri Jul 15 11:26:45 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:26:45 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:27:32 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:27:33 2022]  >>> Initalizing Flask...[Fri Jul 15 11:27:33 2022]  >>> Initializing CORS...[Fri Jul 15 11:27:33 2022] Loading configuration...[Fri Jul 15 11:27:33 2022]  * Loaded: product.json[Fri Jul 15 11:27:33 2022]  * Loaded: main.json[Fri Jul 15 11:27:33 2022]  * Loaded: bases.json[Fri Jul 15 11:27:33 2022] Loading bases...[Fri Jul 15 11:27:33 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:27:33 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:28:01 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:28:01 2022]  >>> Initalizing Flask...[Fri Jul 15 11:28:01 2022]  >>> Initializing CORS...[Fri Jul 15 11:28:01 2022] Loading configuration...[Fri Jul 15 11:28:01 2022]  * Loaded: product.json[Fri Jul 15 11:28:01 2022]  * Loaded: main.json[Fri Jul 15 11:28:01 2022]  * Loaded: bases.json[Fri Jul 15 11:28:01 2022] Loading bases...[Fri Jul 15 11:28:01 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:28:01 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:28:01 2022] Running server...[Fri Jul 15 11:28:51 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:28:52 2022]  >>> Initalizing Flask...[Fri Jul 15 11:28:52 2022]  >>> Initializing CORS...[Fri Jul 15 11:28:52 2022] Loading configuration...[Fri Jul 15 11:28:52 2022]  * Loaded: product.json[Fri Jul 15 11:28:52 2022]  * Loaded: main.json[Fri Jul 15 11:28:52 2022]  * Loaded: bases.json[Fri Jul 15 11:28:52 2022] Loading bases...[Fri Jul 15 11:28:52 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:28:52 2022] NO PICKLES?
+Generating the base...[Fri Jul 15 11:28:59 2022] Running server...[Fri Jul 15 11:31:10 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:31:11 2022]  >>> Initalizing Flask...[Fri Jul 15 11:31:11 2022]  >>> Initializing CORS...[Fri Jul 15 11:31:11 2022] Loading configuration...[Fri Jul 15 11:31:11 2022]  * Loaded: product.json[Fri Jul 15 11:31:11 2022]  * Loaded: main.json[Fri Jul 15 11:31:11 2022]  * Loaded: bases.json[Fri Jul 15 11:31:11 2022] Loading bases...[Fri Jul 15 11:31:11 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:31:11 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:31:11 2022] Running server...[Fri Jul 15 11:32:06 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:32:06 2022]  >>> Initalizing Flask...[Fri Jul 15 11:32:06 2022]  >>> Initializing CORS...[Fri Jul 15 11:32:06 2022] Loading configuration...[Fri Jul 15 11:32:06 2022]  * Loaded: product.json[Fri Jul 15 11:32:06 2022]  * Loaded: main.json[Fri Jul 15 11:32:06 2022]  * Loaded: bases.json[Fri Jul 15 11:32:06 2022] Loading bases...[Fri Jul 15 11:32:06 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:32:06 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:32:07 2022] Running server...[Fri Jul 15 11:37:21 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:37:21 2022]  >>> Initalizing Flask...[Fri Jul 15 11:37:21 2022]  >>> Initializing CORS...[Fri Jul 15 11:37:21 2022] Loading configuration...[Fri Jul 15 11:37:21 2022]  * Loaded: product.json[Fri Jul 15 11:37:21 2022]  * Loaded: main.json[Fri Jul 15 11:37:21 2022]  * Loaded: bases.json[Fri Jul 15 11:37:21 2022] Loading bases...[Fri Jul 15 11:37:21 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:37:21 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:37:39 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:37:39 2022]  >>> Initalizing Flask...[Fri Jul 15 11:37:39 2022]  >>> Initializing CORS...[Fri Jul 15 11:37:39 2022] Loading configuration...[Fri Jul 15 11:37:39 2022]  * Loaded: product.json[Fri Jul 15 11:37:39 2022]  * Loaded: main.json[Fri Jul 15 11:37:39 2022]  * Loaded: bases.json[Fri Jul 15 11:37:39 2022] Loading bases...[Fri Jul 15 11:37:39 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:37:39 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:37:40 2022] Running server...[Fri Jul 15 11:38:54 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:38:55 2022]  >>> Initalizing Flask...[Fri Jul 15 11:38:55 2022]  >>> Initializing CORS...[Fri Jul 15 11:38:55 2022] Loading configuration...[Fri Jul 15 11:38:55 2022]  * Loaded: product.json[Fri Jul 15 11:38:55 2022]  * Loaded: main.json[Fri Jul 15 11:38:55 2022]  * Loaded: bases.json[Fri Jul 15 11:38:55 2022] Loading bases...[Fri Jul 15 11:38:55 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:38:55 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:38:55 2022] Running server...[Fri Jul 15 11:40:07 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:40:08 2022]  >>> Initalizing Flask...[Fri Jul 15 11:40:08 2022]  >>> Initializing CORS...[Fri Jul 15 11:40:08 2022] Loading configuration...[Fri Jul 15 11:40:08 2022]  * Loaded: product.json[Fri Jul 15 11:40:08 2022]  * Loaded: main.json[Fri Jul 15 11:40:08 2022]  * Loaded: bases.json[Fri Jul 15 11:40:08 2022] Loading bases...[Fri Jul 15 11:40:08 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:40:08 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:40:08 2022] Running server...[Fri Jul 15 11:40:50 2022] [ModSys] activating modules set - main.py[Fri Jul 15 11:40:51 2022]  >>> Initalizing Flask...[Fri Jul 15 11:40:51 2022]  >>> Initializing CORS...[Fri Jul 15 11:40:51 2022] Loading configuration...[Fri Jul 15 11:40:51 2022]  * Loaded: product.json[Fri Jul 15 11:40:51 2022]  * Loaded: main.json[Fri Jul 15 11:40:51 2022]  * Loaded: bases.json[Fri Jul 15 11:40:51 2022] Loading bases...[Fri Jul 15 11:40:51 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 15 11:40:51 2022] Found Pickle Shot. Deserializing...[Fri Jul 15 11:40:51 2022] Running server...[Thu Jul 21 22:37:10 2022]  >>> Initalizing Flask...[Thu Jul 21 22:38:22 2022]  >>> Initalizing Flask...[Thu Jul 21 22:38:22 2022]  >>> Initializing CORS...[Thu Jul 21 22:38:22 2022] Loading configuration...[Thu Jul 21 22:38:22 2022]  * Loaded: bases.json[Thu Jul 21 22:38:22 2022]  * Loaded: main.json[Thu Jul 21 22:38:22 2022]  * Loaded: product.json[Thu Jul 21 22:38:22 2022] Loading bases...[Thu Jul 21 22:38:22 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Thu Jul 21 22:38:22 2022] Found Pickle Shot. Deserializing...[Thu Jul 21 22:38:23 2022]  Loading: LibreSpeak Base
+ ---------------------------------->
+ Base LibreSpeak: once upon a time there was one conversation, and there were very, very many idiots and fools in it...
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/librespeak_base
+ Detecting serialized shot...
+[Thu Jul 21 22:38:23 2022] NO PICKLES?
+Generating the base...[Fri Jul 22 06:49:22 2022]  >>> Initalizing Flask...[Fri Jul 22 06:49:22 2022]  >>> Initializing CORS...[Fri Jul 22 06:49:22 2022] Loading configuration...[Fri Jul 22 06:49:22 2022]  * Loaded: bases.json[Fri Jul 22 06:49:22 2022]  * Loaded: main.json[Fri Jul 22 06:49:22 2022]  * Loaded: product.json[Fri Jul 22 06:49:22 2022] Loading bases...[Fri Jul 22 06:49:22 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 22 06:49:22 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 06:49:22 2022]  Loading: LibreSpeak Base
+ ---------------------------------->
+ Base LibreSpeak: once upon a time there was one conversation, and there were very, very many idiots and fools in it...
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/librespeak_base
+ Detecting serialized shot...
+[Fri Jul 22 06:49:22 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 06:49:24 2022]  Loading: FRPIKK Base
+ ---------------------------------->
+ Informational trail from legendary conference on VK. Someday, it will be restored.
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/frpikk_base
+ Detecting serialized shot...
+[Fri Jul 22 06:49:24 2022] NO PICKLES?
+Generating the base...[Fri Jul 22 06:50:02 2022]  Loading: DebConf Base
+ ---------------------------------->
+ The most outcast Linux/Unix community.
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/debconf_base
+ Detecting serialized shot...
+[Fri Jul 22 06:50:02 2022] NO PICKLES?
+Generating the base...[Fri Jul 22 06:50:04 2022]  Loading: (((Srach)^2)^3) Base
+ ---------------------------------->
+ хуйня блять полная удалите нахуй
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/srach_base
+ Detecting serialized shot...
+[Fri Jul 22 06:50:04 2022] NO PICKLES?
+Generating the base...[Fri Jul 22 06:50:18 2022]  Loading: Gosduma Base
+ ---------------------------------->
+ ещё более хуйня ебаная
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/gosduma_base
+ Detecting serialized shot...
+[Fri Jul 22 06:50:18 2022] NO PICKLES?
+Generating the base...[Fri Jul 22 06:56:29 2022]  >>> Initalizing Flask...[Fri Jul 22 06:56:29 2022]  >>> Initializing CORS...[Fri Jul 22 06:56:29 2022] Loading configuration...[Fri Jul 22 06:56:29 2022]  * Loaded: bases.json[Fri Jul 22 06:56:29 2022]  * Loaded: main.json[Fri Jul 22 06:56:29 2022]  * Loaded: product.json[Fri Jul 22 06:56:29 2022] Loading bases...[Fri Jul 22 06:56:29 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 22 06:56:29 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 06:56:30 2022]  Loading: LibreSpeak Base
+ ---------------------------------->
+ Base LibreSpeak: once upon a time there was one conversation, and there were very, very many idiots and fools in it...
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/librespeak_base
+ Detecting serialized shot...
+[Fri Jul 22 06:56:30 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 06:56:31 2022]  Loading: FRPIKK Base
+ ---------------------------------->
+ Informational trail from legendary conference on VK. Someday, it will be restored.
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/frpikk_base
+ Detecting serialized shot...
+[Fri Jul 22 06:56:31 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 06:56:32 2022]  Loading: DebConf Base
+ ---------------------------------->
+ The most outcast Linux/Unix community.
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/debconf_base
+ Detecting serialized shot...
+[Fri Jul 22 06:56:32 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 06:56:32 2022]  Loading: (((Srach)^2)^3) Base
+ ---------------------------------->
+ хуйня блять полная удалите нахуй
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/srach_base
+ Detecting serialized shot...
+[Fri Jul 22 06:56:32 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 06:56:32 2022]  Loading: Gosduma Base
+ ---------------------------------->
+ ещё более хуйня ебаная
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/gosduma_base
+ Detecting serialized shot...
+[Fri Jul 22 06:56:32 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 12:18:48 2022]  >>> Initalizing Flask...[Fri Jul 22 12:18:48 2022]  >>> Initializing CORS...[Fri Jul 22 12:18:48 2022] Loading configuration...[Fri Jul 22 12:18:48 2022]  * Loaded: bases.json[Fri Jul 22 13:51:14 2022]  >>> Initalizing Flask...[Fri Jul 22 13:51:14 2022]  >>> Initializing CORS...[Fri Jul 22 13:51:14 2022] Loading configuration...[Fri Jul 22 13:51:14 2022]  * Loaded: bases.json[Fri Jul 22 13:53:21 2022]  >>> Initalizing Flask...[Fri Jul 22 13:53:21 2022]  >>> Initializing CORS...[Fri Jul 22 13:53:21 2022] Loading configuration...[Fri Jul 22 13:53:21 2022]  * Loaded: bases.json[Fri Jul 22 14:27:56 2022]  >>> Initalizing Flask...[Fri Jul 22 14:27:56 2022]  >>> Initializing CORS...[Fri Jul 22 14:27:56 2022] Loading configuration...[Fri Jul 22 14:27:56 2022]  * Loaded: bases.json[Fri Jul 22 15:51:19 2022]  >>> Initalizing Flask...[Fri Jul 22 15:51:19 2022]  >>> Initializing CORS...[Fri Jul 22 15:51:19 2022] Loading configuration...[Fri Jul 22 15:51:19 2022]  * Loaded: bases.json[Fri Jul 22 15:53:55 2022]  >>> Initalizing Flask...[Fri Jul 22 15:53:55 2022]  >>> Initializing CORS...[Fri Jul 22 15:53:55 2022] Loading configuration...[Fri Jul 22 15:53:55 2022]  * Loaded: bases.json[Fri Jul 22 15:53:55 2022]  * Loaded: main.json[Fri Jul 22 15:53:55 2022]  * Loaded: product.json[Fri Jul 22 15:53:55 2022] Loading bases...[Fri Jul 22 15:53:55 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 22 15:53:55 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:53:56 2022]  Loading: LibreSpeak Base
+ ---------------------------------->
+ Base LibreSpeak: once upon a time there was one conversation, and there were very, very many idiots and fools in it...
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/librespeak_base
+ Detecting serialized shot...
+[Fri Jul 22 15:53:56 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:53:58 2022]  Loading: FRPIKK Base
+ ---------------------------------->
+ Informational trail from legendary conference on VK. Someday, it will be restored.
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/frpikk_base
+ Detecting serialized shot...
+[Fri Jul 22 15:53:58 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:53:58 2022]  Loading: DebConf Base
+ ---------------------------------->
+ The most outcast Linux/Unix community.
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/debconf_base
+ Detecting serialized shot...
+[Fri Jul 22 15:53:58 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:53:59 2022]  Loading: (((Srach)^2)^3) Base
+ ---------------------------------->
+ хуйня блять полная удалите нахуй
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/srach_base
+ Detecting serialized shot...
+[Fri Jul 22 15:53:59 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:53:59 2022]  Loading: Gosduma Base
+ ---------------------------------->
+ ещё более хуйня ебаная
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/gosduma_base
+ Detecting serialized shot...
+[Fri Jul 22 15:53:59 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:53:59 2022]  Loading: Wikipedia Base
+ ---------------------------------->
+ Научный бред во всей своей красе
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/wikipedia_base
+ Detecting serialized shot...
+[Fri Jul 22 15:53:59 2022] NO PICKLES?
+Generating the base...[Fri Jul 22 15:54:27 2022]  >>> Initalizing Flask...[Fri Jul 22 15:54:27 2022]  >>> Initializing CORS...[Fri Jul 22 15:54:27 2022] Loading configuration...[Fri Jul 22 15:54:27 2022]  * Loaded: bases.json[Fri Jul 22 15:54:27 2022]  * Loaded: main.json[Fri Jul 22 15:54:27 2022]  * Loaded: product.json[Fri Jul 22 15:54:27 2022] Loading bases...[Fri Jul 22 15:54:27 2022]  Loading: Initial Base
+ ---------------------------------->
+ The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/initial_base
+ Detecting serialized shot...
+[Fri Jul 22 15:54:27 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:54:27 2022]  Loading: LibreSpeak Base
+ ---------------------------------->
+ Base LibreSpeak: once upon a time there was one conversation, and there were very, very many idiots and fools in it...
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/librespeak_base
+ Detecting serialized shot...
+[Fri Jul 22 15:54:27 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:54:29 2022]  Loading: FRPIKK Base
+ ---------------------------------->
+ Informational trail from legendary conference on VK. Someday, it will be restored.
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/frpikk_base
+ Detecting serialized shot...
+[Fri Jul 22 15:54:29 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:54:29 2022]  Loading: DebConf Base
+ ---------------------------------->
+ The most outcast Linux/Unix community.
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/debconf_base
+ Detecting serialized shot...
+[Fri Jul 22 15:54:29 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:54:29 2022]  Loading: (((Srach)^2)^3) Base
+ ---------------------------------->
+ хуйня блять полная удалите нахуй
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/srach_base
+ Detecting serialized shot...
+[Fri Jul 22 15:54:29 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:54:30 2022]  Loading: Gosduma Base
+ ---------------------------------->
+ ещё более хуйня ебаная
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/gosduma_base
+ Detecting serialized shot...
+[Fri Jul 22 15:54:30 2022] Found Pickle Shot. Deserializing...[Fri Jul 22 15:54:30 2022]  Loading: Wikipedia Base
+ ---------------------------------->
+ Научный бред во всей своей красе
+ ---------------------------------->
+ Author: Cat Weird <vk.com/catweird>
+ Path: bases/wikipedia_base
+ Detecting serialized shot...
+[Fri Jul 22 15:54:30 2022] NO PICKLES?
+Generating the base...

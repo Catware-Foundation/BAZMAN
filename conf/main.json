@@ -1,0 +1,5 @@
+{
+"server_name": "Default BazMan Server",
+"server_port": 1211,
+"server_host": "0.0.0.0"
+}

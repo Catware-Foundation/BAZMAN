@@ -1,0 +1,10 @@
+{ "bases":
+[
+{
+"name": "Initial Base",
+"description": "The initial base for checking the performance of your BazMan server. Taken from https://github.com/Catware-Foundation/Paste-Base",
+"author": "Cat Weird <vk.com/catweird>",
+"path": "bases/initial_base"
+}
+]
+}
