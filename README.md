@@ -2,7 +2,7 @@
 
 Web-приложение для генерирования предложений через [Markovify](https://github.com/jsvine/markovify)
 
-[Документация на Catware Wiki](https://w.ctw.re/index.php/BAZMAN)
+[Документация на Catware Wiki](https://w.ctw.re/index.php/BAZMAN): настройка баз, конфигурация и деплоймент сервера. 
 
 [Оффициальный сервер](https://bazman.ctw.re/)
 
